@@ -356,8 +356,8 @@ section .motto .more a.buy {
   background: #24678a;
   border-bottom: 0px;
   text-align: center;
-  -webkit-border-radius: 7px;
-  border-radius: 7px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
   box-shadow: 0px 8px 0px #194962, 0px 8px 20px rgba(0, 0, 0, 0.3);
 }
 section .motto .more a.buy:hover {
