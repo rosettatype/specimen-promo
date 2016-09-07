@@ -305,17 +305,6 @@ footer .in {
   padding: 25px 0 30px 160px;
   text-align: center;
 }
-footer p {
-  font-family: 'yrsa', serif, Georgia, "Times New Roman", Times;
-  font-weight: 400;
-  font-size: 24px;
-  font-size: 2.4rem;
-  line-height: 1.5em;
-  color: #bbb0a6;
-}
-footer p strong {
-  font-weight: 700;
-}
 section {
   width: 100%;
 }
@@ -356,13 +345,13 @@ section .motto .more a.buy {
   background: #24678a;
   border-bottom: 0px;
   text-align: center;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  box-shadow: 0px 8px 0px #194962, 0px 8px 20px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+  box-shadow: 0px 10px 0px #194962, 0px 10px 20px rgba(0, 0, 0, 0.3);
 }
 section .motto .more a.buy:hover {
   background: #c70028;
-  box-shadow: 0px 8px 0px #610013, 0px 8px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 10px 0px #610013, 0px 10px 20px rgba(0, 0, 0, 0.3);
 }
 section .motto .more p {
   margin: 0 0 12px 0;
@@ -408,7 +397,7 @@ section article .in-article h3 {
   font-size: 3rem;
   line-height: 1.4em;
   color: #545151;
-  padding: 10px;
+  padding: 10px 0;
 }
 section article .in-article .img {
   position: relative;
