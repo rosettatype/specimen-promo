@@ -11,12 +11,13 @@
 .wufoo .submit {
 	display:block;
 	margin:0 0 20px 0;
-	.size(200px, 60px);
-	.font-size(14, 60px);
+	width: 200px;
+	height: 60px;
+	font-size: 14px;
 	font-weight:bold;
-	color:@white;
+	color: #fff;
 	background:#24678a;
-	border-bottom:0px;
+	border:0px;
 	text-align:center;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
