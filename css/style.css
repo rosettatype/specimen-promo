@@ -330,6 +330,10 @@ section .motto h2 strong {
 section .motto .share {
   width: 690px;
 }
+section .motto .share div {
+  width: 690px;
+  float: left;
+}
 section .motto .more {
   float: right;
   padding: 0 10px 0 0;
