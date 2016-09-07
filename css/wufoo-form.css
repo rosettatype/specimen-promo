@@ -8,26 +8,30 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
+#container{
+	background: none;
+}
+
 .wufoo .submit {
-	display:block;
-	margin:0 0 20px 0;
-	width: 200px;
-	height: 60px;
+	display: block;
+	margin: 20px 0;
+	width: 150px;
+	height: 45px;
 	font-size: 14px;
-	font-weight:bold;
+	font-weight: bold;
 	color: #fff;
-	background:#24678a;
-	border:0px;
-	text-align:center;
+	background: #24678a;
+	border: 0px;
+	text-align: center;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 	box-shadow: 0px 10px 0px #194962, 0px 10px 20px rgba(0, 0, 0, .3);
 }
 .wufoo .submit:hover{
-	background:#c70028;
+	background: #c70028;
 	box-shadow: 0px 10px 0px #610013, 0px 10px 20px rgba(0, 0, 0, .3);
 }
 
 .wufoo .focused{
-	background:#bbb0a6;
+	background: #bbb0a6;
 }
