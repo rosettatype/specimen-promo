@@ -327,6 +327,9 @@ section .motto h2 {
 section .motto h2 strong {
   font-weight: 700;
 }
+section .motto .social {
+  width: 690px;
+}
 section .motto .more {
   float: right;
   padding: 0 10px 0 0;
