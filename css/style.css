@@ -399,6 +399,17 @@ section article .in-article {
   padding: 10px;
   width: 961px;
 }
+section article .in-article h3 {
+  float: left;
+  width: 690px;
+  font-family: 'yrsa', serif, Georgia, "Times New Roman", Times;
+  font-weight: bold;
+  font-size: 30px;
+  font-size: 3rem;
+  line-height: 1.4em;
+  color: #545151;
+  padding: 10px;
+}
 section article .in-article .img {
   position: relative;
   width: 100%;
@@ -446,6 +457,11 @@ section article .in-article .img-right {
   float: right;
   width: 460px;
   height: 328px;
+}
+section article .form {
+  background: #e2e9eb;
+  padding: 10px;
+  width: 100%;
 }
 @media screen and (max-width: 1121px) {
   .in {
