@@ -339,6 +339,7 @@ section .motto .share {
 section .motto .share div {
   width: 690px;
   float: left;
+  margin: 0 10px 10px 0;
 }
 section .motto .more {
   float: right;
