@@ -323,9 +323,14 @@ section .motto h2 {
   font-size: 3rem;
   line-height: 1.4em;
   color: #545151;
+  padding-bottom: 1em;
 }
 section .motto h2 strong {
   font-weight: 700;
+}
+section .motto h2 a {
+  text-decoration: none;
+  border-bottom: 1px dotted #c70028;
 }
 section .motto .share {
   padding: 4em 0;
