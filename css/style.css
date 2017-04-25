@@ -283,6 +283,11 @@ header h1 a:hover {
   text-decoration: none;
   border-bottom: 0;
 }
+header h2 a,
+header h2 a:hover {
+  text-decoration: none;
+  border-bottom: 0;
+}
 header a.back {
   position: absolute;
   color: #fff;
